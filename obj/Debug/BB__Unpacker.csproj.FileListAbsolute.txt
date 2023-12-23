@@ -1,0 +1,7 @@
+C:\Users\zZz\source\repos\BB__Unpacker\bin\Debug\BB__Unpacker.exe.config
+C:\Users\zZz\source\repos\BB__Unpacker\bin\Debug\BB__Unpacker.exe
+C:\Users\zZz\source\repos\BB__Unpacker\bin\Debug\BB__Unpacker.pdb
+C:\Users\zZz\source\repos\BB__Unpacker\obj\Debug\BB__Unpacker.csproj.AssemblyReference.cache
+C:\Users\zZz\source\repos\BB__Unpacker\obj\Debug\BB__Unpacker.csproj.CoreCompileInputs.cache
+C:\Users\zZz\source\repos\BB__Unpacker\obj\Debug\BB__Unpacker.exe
+C:\Users\zZz\source\repos\BB__Unpacker\obj\Debug\BB__Unpacker.pdb
